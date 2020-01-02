@@ -8,10 +8,12 @@ body {
 
 p {
   font-weight: 400;
+  color: hsl(229, 6%, 66%);
 }
 
 h3 {
   font-weight: 600;
+  color: hsl(234, 12%, 34%);
 }
 
 svg {
@@ -26,11 +28,13 @@ svg {
 .heading1 {
   font-weight: 200;
   margin: 0;
+  color: hsl(229, 6%, 66%);
 }
 
 .heading2 {
   font-weight: 600;
   margin: 0;
+  color: hsl(234, 12%, 34%);
 }
 
 .intro {
